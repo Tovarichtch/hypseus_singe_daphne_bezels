@@ -41,7 +41,7 @@ Missing bezels with 16:9 ratio (parent ROM only, excluding all clones and fanmad
 - Puss in Boots `Puss_in_Boots` (Singe2)
 - Road Blaster `RoadBlasterHD` (Singe2)
 - Star Blazers `starblazers` (Singe1)
-- Starship Troopers `StartshipTroopers` (Singe2)
+- Starship Troopers `StarshipTroopers` (Singe2)
 - Mad Dog II : The Lost Gold (Typing edition) `typing-md2` (Singe1)
 
 Thanks to gojidan (https://github.com/gojidan/hypseus-singe-bezels), Hypseus' discord community and DirtBagXon for the needed will to make this.
