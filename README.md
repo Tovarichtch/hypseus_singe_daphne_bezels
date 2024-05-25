@@ -44,4 +44,26 @@ Missing bezels with 16:9 ratio (parent ROM only, excluding all clones and fanmad
 - Starship Troopers `StarshipTroopers` (Singe2)
 - Mad Dog II : The Lost Gold (Typing edition) `typing-md2` (Singe1)
 
-Thanks to gojidan (https://github.com/gojidan/hypseus-singe-bezels), Hypseus' discord community and DirtBagXon for the needed will to make this.
+Thanks to Gojidan Alethes's work (https://github.com/gojidan/hypseus-singe-bezels) for the idea and DirtBagXon for the needed will to make this.
+
+# Credits go to their unknown and known authors:
+
+- ci2own
+- DirtBagXon
+- dougan_78_
+- duglis.
+- Haydenism
+- Maximilium
+- MBRetrocade6894
+- MaX7o
+- mazinger4life
+- mike melo
+- NeoKarnage
+- PaCiFiKbAllA
+- prince_rakeem
+- Prof_gLX
+- Rhikki
+- RustyMG
+- Widge
+
+And every contributor from Hypseus's discord community.
