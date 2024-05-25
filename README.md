@@ -1,5 +1,5 @@
-# hypseus_singe_daphne_bezels
-An effort to standardize the bezels for Hypseus SINGE, Daphne and Kimmy ready for Batocera.
+# Hypseus SINGE & Daphne bezels ready for Batocera
+An effort to standardize the bezels for Hypseus SINGE, Daphne and Kimmy on Batocera.
 
 Bezels are divided by software emulator (Daphne) and simulators (SINGE 1&2 and Kimmy). Light gun games have a Sinden subfolder (thin; normal; thick border size). 
 
@@ -9,18 +9,18 @@ This is a WIP and will change at any time for standardization.
 
 Missing bezels with 16:9 ratio (parent ROM only, excluding all clones and fanmade games fow now):
 
-Daphne:
+# Daphne:
 
-- Space Ace '91 (ace91)
-- Space Ace PAL (aceeuro)
-- Dragon's Lair Enhancement v1.1 (dle11)
-- Dragon's Lair Enhancement v2.1 (dle21)
-- Dragon's Lair NTSC (prototype) (lair_n1)
-- Dragon's Lair PAL (Italian) (lair_ita)
-- Dragon's Lair PAL (laireuro)
-- Space Ace Enhancement (sae)
+- Space Ace '91 `ace91`
+- Space Ace PAL `aceeuro`
+- Dragon's Lair Enhancement v1.1 `dle11`
+- Dragon's Lair Enhancement v2.1 `dle21`
+- Dragon's Lair NTSC (prototype) `lair_n1`
+- Dragon's Lair PAL (Italian) `lair_ita`
+- Dragon's Lair PAL `laireuro`
+- Space Ace Enhancement `sae`
 
-SINGE:
+# SINGE:
 
 - Asterix `Asterix` (Singe2)
 - `Arcade_Xperience_Vol1` (Singe2)
@@ -34,7 +34,6 @@ SINGE:
 - Dragon Trainer Singe edition 2.0 `DragonTrainer` (Singe2)
 - Fire and Ice `Fire_and_Ice` (Singe2)
 - Future Boy Conan `Future_Boy` (Singe2)
-- Ninja Hayate `Hayate` (Singe2)
 - Samurai Jack `jack` (Singe1)
 - Princess Mononoke `Mononoke` (Singe2)
 - Oeil pour Oeil `Oeil-Pour-Oeil` (Singe2)
