@@ -10,53 +10,53 @@ Bezels are divided by software emulator (Daphne) and simulators (SINGE 1&2 and K
 Any versions of a `SINGE` game will use the same bezel image, unless the version is very unique from others. Here's the list:
 
 - Cliff Hanger
- - `Cliff` 
- - `cliffhanger`
+  - `Cliff` 
+  - `cliffhanger`
 - Conan Il Ragazzo del Futuro/Future Boy Conan 
- - `conan` 
- - `Future_Boy`
+  - `conan` 
+  - `Future_Boy`
 - Chantze's Stone 
- - `Chantze_HD`
- - `Triad_HD` 
- - `triadstone`
+  - `Chantze_HD`
+  - `Triad_HD` 
+  - `triadstone`
 - Crime Patrol
- - `crimepatrol`
- - `crimepatrol-hd`
- - `CP_HD`
+  - `crimepatrol`
+  - `crimepatrol-hd`
+  - `CP_HD`
 - Crime Patrol 2: Drug Wars 
- - `drugwars` 
- - `drugwars-hd` 
- - `CP2DW_HD`
+  - `drugwars` 
+  - `drugwars-hd` 
+  - `CP2DW_HD`
 - Daitarn 3 
- - `daitarn`
- - `Daitarn_3`
+  - `daitarn`
+  - `Daitarn_3`
 - Dragon's Lair Enhancement
- - `DLe`
- - `DLe_alt`
+  - `DLe`
+  - `DLe_alt`
 - The Last Bounty Hunter 
- - `lbh`
- - `lbh-hd` 
- - `LBH_HD`
+  - `lbh`
+  - `lbh-hd` 
+  - `LBH_HD`
 - Mad Dog McCree
- - `maddog`
- - `maddog-hd`
- - `Maddog_HD`
+  - `maddog`
+  - `maddog-hd`
+  - `Maddog_HD`
 - Mad Dog II: The Lost Gold
- - `maddog2`
- - `maddog2-hd`
- - `Maddog2_HD`
+  - `maddog2`
+  - `maddog2-hd`
+  - `Maddog2_HD`
 - Samurai Jack
- - `jack`
- - `Samurai_Jack`
+  - `jack`
+  - `Samurai_Jack`
 - Space Pirates
- - `spacepirates`
- - `spacepirates-hd`
- - `Space_Pirates_HD`
+  - `spacepirates`
+  - `spacepirates-hd`
+  - `Space_Pirates_HD`
 - Who Shot Jonny Rock?
- - `johnnyrock`
- - `johnnyrock-hd` 
- - `johnnyrocknoir`
- - `WSJR_HD`
+  - `johnnyrock`
+  - `johnnyrock-hd` 
+  - `johnnyrocknoir`
+  - `WSJR_HD`
 
 # Missing bezels with 16:9 ratio (parent ROM only, excluding all clones/fanmades):
 
@@ -80,16 +80,16 @@ SINGE:
 - Danmachi `Danmachi`
 - Dragon's Lair Classic `dragons_lair_classic`
 - Dragon Trainer Singe edition
- - `dragon`
- - `DragonTrainer`
+  - `dragon`
+  - `DragonTrainer`
 - Fire and Ice 
- - `Fire_and_Ice`
- - `Fire_and_Ice_v2`
+  - `Fire_and_Ice`
+  - `Fire_and_Ice_v2`
 - Princess Mononoke `Mononoke`
 - Oeil pour Oeil `Oeil-Pour-Oeil`
 - Puss in Boots
- - `pussinboots`
- - `Puss_in_Boots`
+  - `pussinboots`
+  - `Puss_in_Boots`
 - Road Blaster `RoadBlasterHD`
 - Star Blazers `starblazers`
 - Starship Troopers `StarshipTroopers`
