@@ -7,7 +7,9 @@ This is a WIP and will change at any time for standardization.
 
 Bezels are divided by software emulator (Daphne) and simulators (SINGE 1&2 and Kimmy). `Daphne` bezels are matched to MAME names and should not be used with `SINGE` versions.
 
-Any versions of a `SINGE` game will use the same bezel image, unless the version is very unique from others. Here's the list:
+Multiple versions of a `SINGE` game will use one bezel image.
+
+As of now:
 
 - Cliff Hanger
   - `Cliff` 
