@@ -1,7 +1,7 @@
 # Hypseus SINGE & Daphne bezels ready for Batocera
 An effort to standardize the bezels for Hypseus SINGE, Daphne and Kimmy on Batocera.
 
-Bezels are divided by software emulator (Daphne) and simulators (SINGE 1&2 and Kimmy). Light gun games have a Sinden subfolder (thin; normal; thick border size). 
+Bezels are divided by software emulator (Daphne) and simulators (SINGE 1&2 and Kimmy). Light gun games have a Sinden subfolder.
 
 All bezels are trimmed to a single file image per ROM name (e.g.: maddog2.png for SINGE 1 assets and Maddog2_HD.png for SINGE 2 assets).
 
