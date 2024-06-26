@@ -25,7 +25,7 @@ As of now:
 - Cliff Hanger
   - :small_orange_diamond: `cliff`
   - `Cliff`
-  - :small_orange_diamond: `cliffalt*` (revisions) 
+  - `cliffalt*` (revisions) 
   - :small_orange_diamond: `cliffhanger`
 - :small_orange_diamond: Cobra Command/Thunder Storm
   - `cobra`
@@ -66,7 +66,7 @@ As of now:
 - :small_orange_diamond: Galaxy Ranger/Star Blazer
   - `blazer` (JP)
   - `galaxy` (US)
-  - `galaxyp`
+  - `galaxyp` (US)
 - The Last Bounty Hunter 
   - `lbh`
   - `lbh-hd` 
@@ -90,7 +90,7 @@ As of now:
   - `aceeuro`
 - Space Ace Enhancement
   - :small_orange_diamond: sae
-  - SAe (`SINGE`)
+  - SAe
 - Space Pirates
   - `spacepirates`
   - `spacepirates-hd`
@@ -117,7 +117,7 @@ Daphne:
   - `lair2`
   - `lair2_*` (revisions)
 - Space Ace Enhancement
-  - `sae` (`Daphne`)
+  - :small_orange_diamond: `sae`
   - `SAe`
 
 SINGE:
