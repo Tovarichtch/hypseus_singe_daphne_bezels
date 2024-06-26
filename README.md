@@ -5,15 +5,31 @@ This is a WIP and will change at any time for standardization.
 
 # Matrix names
 
-Bezels are divided by software emulator (Daphne) and simulators (SINGE 1&2 and Kimmy). `Daphne` bezels are matched to MAME names and should not be used with `SINGE` versions.
+Bezels are divided by software emulator (Daphne) and simulators (SINGE 1&2 and Kimmy). `Daphne` bezels are matched to `Daphne` names and should not be used with `SINGE` versions.
 
-Multiple versions of a `SINGE` game will use the same bezel image.
+Multiple versions of a `SINGE`/`Daphne` game will use the same bezel image (unless content game is important enough to have its own bezel image).
+
+`Daphne` games will be specified with a :small_orange_diamond:. All revisions are `Daphne`.
 
 As of now:
 
+- :small_orange_diamond: Astron Belt
+  - `astron`
+  - `astronp`
+- :small_orange_diamond: Badlands
+  - `badlands`
+  - `bandlandp`
+- :small_orange_diamond: Bega's Battle/Genma Taisen
+  - `bega`
+  - `begar1`
 - Cliff Hanger
-  - `Cliff` 
-  - `cliffhanger`
+  - :small_orange_diamond: `cliff`
+  - `Cliff`
+  - :small_orange_diamond: `cliffalt*` (revisions) 
+  - :small_orange_diamond: `cliffhanger`
+- :small_orange_diamond: Cobra Command/Thunder Storm
+  - `cobra`
+  - `cobra*` (revisions)
 - Conan Il Ragazzo del Futuro/Future Boy Conan 
   - `conan` 
   - `Future_Boy`
@@ -25,16 +41,32 @@ As of now:
   - `crimepatrol`
   - `crimepatrol-hd`
   - `CP_HD`
-- Crime Patrol 2: Drug Wars 
+- Crime Patrol 2: Drug Wars
   - `drugwars` 
   - `drugwars-hd` 
   - `CP2DW_HD`
-- Daitarn 3 
+- Daitarn 3
   - `daitarn`
   - `Daitarn_3`
+- :small_orange_diamond: Dragon's Lair
+  - `lair`
+  - `lair_*` (revisions)
+  - `laireuro`
 - Dragon's Lair Enhancement
   - `DLe`
   - `DLe_alt`
+  - :small_orange_diamond: `dle11`
+  - :small_orange_diamond: `dle21`
+- :small_orange_diamond: Dragon's Lair II: Timewarp
+  - `lair2`
+  - `lair2_*`  (revisions)
+- :small_orange_diamond: Esh's Aurunmilla
+  - `esh`
+  - `eshalt*` (revisions)
+- :small_orange_diamond: Galaxy Ranger/Star Blazer
+  - `blazer` (JP)
+  - `galaxy` (US)
+  - `galaxyp`
 - The Last Bounty Hunter 
   - `lbh`
   - `lbh-hd` 
@@ -50,10 +82,25 @@ As of now:
 - Samurai Jack
   - `jack`
   - `Samurai_Jack`
+- :small_orange_diamond: Space Ace
+  - `ace`
+  - `ace_*` (revisions)
+  - `ace91`
+  - `ace91_*` (revisions)
+  - `aceeuro`
+- Space Ace Enhancement
+  - :small_orange_diamond: sae
+  - SAe (`SINGE`)
 - Space Pirates
   - `spacepirates`
   - `spacepirates-hd`
   - `Space_Pirates_HD`
+- :small_orange_diamond: Super Don Quix-ote
+  - `sdq`
+  - `sdq*` (revisions)
+- :small_orange_diamond: Thayer's Quest
+  - `tq`
+  - `tq*` (revisions)
 - Who Shot Jonny Rock?
   - `johnnyrock`
   - `johnnyrock-hd` 
@@ -66,14 +113,12 @@ With 16:9 ratio (parent ROM only, excluding all clones/fanmades).
 
 Daphne:
 
-- Space Ace '91 `ace91`
-- Space Ace PAL `aceeuro`
-- Dragon's Lair Enhancement v1.1 `dle11`
-- Dragon's Lair Enhancement v2.1 `dle21`
-- Dragon's Lair NTSC (prototype) `lair_n1`
-- Dragon's Lair PAL (Italian) `lair_ita`
-- Dragon's Lair PAL `laireuro`
-- Space Ace Enhancement `sae`
+- Dragon's Lair II: Timewarp
+  - `lair2`
+  - `lair2_*` (revisions)
+- Space Ace Enhancement
+  - `sae` (`Daphne`)
+  - `SAe`
 
 SINGE:
 
