@@ -109,7 +109,7 @@ As of now:
 
 # Missing bezels 
 
-With 16:9 ratio (parent ROM only, excluding all clones/fanmades).
+With 16:9 ratio.
 
 Daphne:
 
