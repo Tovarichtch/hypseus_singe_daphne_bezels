@@ -109,7 +109,7 @@ As of now:
 
 # Missing bezels 
 
-With 16:9 ratio.
+Only for 4:3 videos.
 
 Daphne:
 
@@ -122,26 +122,13 @@ Daphne:
 
 SINGE:
 
-- Asterix `Asterix`
-- `Arcade_Xperience_Vol1`
-- `Arcade_Xperience_Vol2`
-- `Arcade_Xperience_Vol3`
-- Danmachi `Danmachi`
 - Dragon's Lair Classic `dragons_lair_classic`
 - Dragon Trainer Singe edition
   - `dragon`
   - `DragonTrainer`
-- Fire and Ice 
-  - `Fire_and_Ice`
-  - `Fire_and_Ice_v2`
 - Princess Mononoke `Mononoke`
-- Oeil pour Oeil `Oeil-Pour-Oeil`
-- Puss in Boots
-  - `pussinboots`
-  - `Puss_in_Boots`
 - Road Blaster `RoadBlasterHD`
 - Star Blazers `starblazers`
-- Starship Troopers `StarshipTroopers`
 - Mad Dog II : The Lost Gold (Typing edition) `typing-md2`
 
 # Credits go to their unknown and known authors:
