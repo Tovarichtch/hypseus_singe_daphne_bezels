@@ -123,10 +123,6 @@ Daphne:
 SINGE:
 
 - Dragon's Lair Classic `dragons_lair_classic`
-- Dragon Trainer Singe edition
-  - `dragon`
-  - `DragonTrainer`
-- Princess Mononoke `Mononoke`
 - Road Blaster `RoadBlasterHD`
 - Star Blazers `starblazers`
 - Mad Dog II : The Lost Gold (Typing edition) `typing-md2`
