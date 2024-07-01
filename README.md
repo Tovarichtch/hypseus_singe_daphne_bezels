@@ -79,6 +79,7 @@ As of now:
   - `maddog2`
   - `maddog2-hd`
   - `Maddog2_HD`
+- Princess Mononoke `Mononoke`
 - Samurai Jack
   - `jack`
   - `Samurai_Jack`
@@ -126,7 +127,6 @@ SINGE:
 - Dragon Trainer Singe edition
   - `dragon`
   - `DragonTrainer`
-- Princess Mononoke `Mononoke`
 - Road Blaster `RoadBlasterHD`
 - Star Blazers `starblazers`
 - Mad Dog II : The Lost Gold (Typing edition) `typing-md2`
@@ -152,6 +152,7 @@ Many thanks to DirtBagXon for the needed will to make this.
 - Prof_gLX
 - Rhikki
 - RustyMG
+- Shoegazerzz
 - Widge
 
 And every contributor from Hypseus's discord community.
