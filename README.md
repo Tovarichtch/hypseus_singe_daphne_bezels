@@ -79,6 +79,7 @@ As of now:
   - `maddog2`
   - `maddog2-hd`
   - `Maddog2_HD`
+- Princess Mononoke `Mononoke`
 - Samurai Jack
   - `jack`
   - `Samurai_Jack`
@@ -148,6 +149,7 @@ Many thanks to DirtBagXon for the needed will to make this.
 - Prof_gLX
 - Rhikki
 - RustyMG
+- Shoegazerzz
 - Widge
 
 And every contributor from Hypseus's discord community.
