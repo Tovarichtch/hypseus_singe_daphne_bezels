@@ -96,6 +96,7 @@ As of now:
   - `spacepirates`
   - `spacepirates-hd`
   - `Space_Pirates_HD`
+- Star Blazers `starblazers`
 - :small_orange_diamond: Super Don Quix-ote
   - `sdq`
   - `sdq*` (revisions)
@@ -125,7 +126,6 @@ SINGE:
 
 - Dragon's Lair Classic `dragons_lair_classic`
 - Road Blaster `RoadBlasterHD`
-- Star Blazers `starblazers`
 - Mad Dog II : The Lost Gold (Typing edition) `typing-md2`
 
 # Credits go to their unknown and known authors:
