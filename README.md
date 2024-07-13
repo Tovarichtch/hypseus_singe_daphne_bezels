@@ -1,7 +1,7 @@
 # Hypseus SINGE & Daphne bezels ready for Batocera
 An effort to standardize the bezels for Hypseus SINGE, Daphne and Kimmy on Batocera. 
 
-This is a WIP and will change at any time for standardization.
+This is a WIP and will change at any time for standardization. This is for 4:3 video source with 16:9 displays.
 
 # Matrix names
 
