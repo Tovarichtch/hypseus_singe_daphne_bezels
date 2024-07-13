@@ -52,6 +52,7 @@ As of now:
   - `lair`
   - `lair_*` (revisions)
   - `laireuro`
+- Dragon's Lair Classic `dragons_lair_classic`
 - Dragon's Lair Enhancement
   - `DLe`
   - `DLe_alt`
@@ -79,7 +80,9 @@ As of now:
   - `maddog2`
   - `maddog2-hd`
   - `Maddog2_HD`
+- Mad Dog II : The Lost Gold (Typing edition) `typing-md2`
 - Princess Mononoke `Mononoke`
+- Road Blaster `RoadBlasterHD`
 - Samurai Jack
   - `jack`
   - `Samurai_Jack`
@@ -96,6 +99,7 @@ As of now:
   - `spacepirates`
   - `spacepirates-hd`
   - `Space_Pirates_HD`
+- Star Blazers `starblazers`
 - :small_orange_diamond: Super Don Quix-ote
   - `sdq`
   - `sdq*` (revisions)
@@ -112,21 +116,9 @@ As of now:
 
 Only for 4:3 videos.
 
-Daphne:
+Daphne: none
 
-- Dragon's Lair II: Timewarp
-  - `lair2`
-  - `lair2_*` (revisions)
-- Space Ace Enhancement
-  - :small_orange_diamond: `sae`
-  - `SAe`
-
-SINGE:
-
-- Dragon's Lair Classic `dragons_lair_classic`
-- Road Blaster `RoadBlasterHD`
-- Star Blazers `starblazers`
-- Mad Dog II : The Lost Gold (Typing edition) `typing-md2`
+SINGE: none
 
 # Credits go to their unknown and known authors:
 
