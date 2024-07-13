@@ -93,8 +93,8 @@ As of now:
   - `ace91_*` (revisions)
   - `aceeuro`
 - Space Ace Enhancement
-  - :small_orange_diamond: sae
-  - SAe
+  - :small_orange_diamond: `sae`
+  - `SAe`
 - Space Pirates
   - `spacepirates`
   - `spacepirates-hd`
@@ -111,14 +111,6 @@ As of now:
   - `johnnyrock-hd` 
   - `johnnyrocknoir`
   - `WSJR_HD`
-
-# Missing bezels 
-
-Only for 4:3 videos.
-
-Daphne: none
-
-SINGE: none
 
 # Credits go to their unknown and known authors:
 
