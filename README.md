@@ -22,6 +22,12 @@ As of now:
 - :small_orange_diamond: Bega's Battle/Genma Taisen
   - `bega`
   - `begar1`
+- Captain Power
+  - `cpower1`
+  - `cpower2`
+  - `cpower3`
+  - `cpower4`
+  - `cpowergh`
 - Cliff Hanger
   - :small_orange_diamond: `cliff`
   - `Cliff`
